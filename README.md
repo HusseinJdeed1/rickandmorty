@@ -29,7 +29,8 @@ Organizing Flutter projects using layered architecture
 
 # Demo 
 [APK](https://drive.google.com/file/d/1XvOmyNZs_ylIP-YCVN39m497wUDN60Zp/view?usp=drive_link)
-🖼️ Screenshots
+
+# 🖼️ Screenshots
 <p float="left"> <img src="https://github.com/HusseinJdeed1/rickandmorty/blob/master/assets/images/10.jpg" width="250" /> <img src="https://github.com/HusseinJdeed1/rickandmorty/blob/master/assets/images/8.jpg" width="250" /> </p>
 
 
